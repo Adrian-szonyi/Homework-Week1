@@ -12,7 +12,7 @@ I have updaetd the Index.html file to improve the accessiblity of the Horiseon w
 ## Installation
 
 Here is the link to view the updated website page:
-[Horiseon website link](https://adrian-szonyi.github.io/HomeworkWeek1-AdrianSzonyi/)
+[Horiseon website link](https://adrian-szonyi.github.io/Homework-Week1/index.html)
 
 If you go to inspect the page you can see the changes to the html and css structure that have been made to make the page more accessible.
 
